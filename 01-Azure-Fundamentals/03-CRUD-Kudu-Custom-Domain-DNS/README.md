@@ -78,3 +78,7 @@ Azure App Service · Kudu · JavaScript / jQuery · DNS (registros A y TXT) · H
 - `nslookup` muestra la IP real detrás de un dominio.
 
 > Nota: el sitio funcionó durante el curso y el recurso puede ya no estar activo. Las capturas muestran el resultado. Por seguridad, el ID de suscripción, los correos y las cuentas del curso están ocultos en las imágenes.
+
+Copyright (c) 2026 Irma (Deni-0295). Todos los derechos reservados.
+
+Este repositorio y su contenido (reportes, documentos, imágenes y textos) son propiedad de la autora. No se permite copiar, modificar, distribuir ni utilizar este material, total o parcialmente, sin autorización previa y por escrito.

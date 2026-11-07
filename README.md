@@ -101,3 +101,7 @@ Las capturas están **recortadas u ocultas** en datos sensibles: IDs de tenant y
 ## Ruta de certificación
 
 **SC-900** → **SC-200** *(planeado)*
+
+Copyright (c) 2026 Irma (Deni-0295). Todos los derechos reservados.
+
+Este repositorio y su contenido (reportes, documentos, imágenes y textos) son propiedad de la autora. No se permite copiar, modificar, distribuir ni utilizar este material, total o parcialmente, sin autorización previa y por escrito.

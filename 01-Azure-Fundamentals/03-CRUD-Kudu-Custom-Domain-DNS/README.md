@@ -61,7 +61,7 @@ Azure App Service · Kudu · JavaScript / jQuery · DNS (registros A y TXT) · H
 | Archivos del CRUD subidos | ![](screenshots/05-archivos-subidos.png) |
 | Agregar dominio personalizado | ![](screenshots/06-dominio-personalizado.png) |
 | Registros DNS (A y TXT) | ![](screenshots/07-registros-dns.png) |
-| Sitio con HTTPS en el dominio | ![](screenshots/08-sitio-https.png) > Nota: el dominio solo se hizo uno en el curso ya que se necesita comprar |
+| Sitio con HTTPS en el dominio | ![](screenshots/08-sitio-https.png) > Nota: el dominio solo se hizo uno en el curso, ya que se necesita comprar |
 | Resultado de `nslookup` | ![](screenshots/09-nslookup.png) |
 
 ## Lo que aprendí

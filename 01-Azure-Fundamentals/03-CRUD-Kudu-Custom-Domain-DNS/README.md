@@ -59,11 +59,10 @@ Azure App Service · Kudu · JavaScript / jQuery · DNS (registros A y TXT) · H
 | Recurso desplegado | ![](screenshots/03-recurso-app-service.png) |
 | Kudu: carpeta `site/wwwroot` | ![](screenshots/04-kudu-wwwroot.png) |
 | Archivos del CRUD subidos | ![](screenshots/05-archivos-subidos.png) |
-| CRUD como administrador | ![](screenshots/06-crud-admin.png) |
-| Agregar dominio personalizado | ![](screenshots/07-dominio-personalizado.png) |
-| Registros DNS (A y TXT) | ![](screenshots/08-registros-dns.png) |
-| Sitio con HTTPS en el dominio | ![](screenshots/09-sitio-https.png) |
-| Resultado de `nslookup` | ![](screenshots/10-nslookup.png) |
+| Agregar dominio personalizado | ![](screenshots/06-dominio-personalizado.png) |
+| Registros DNS (A y TXT) | ![](screenshots/07-registros-dns.png) |
+| Sitio con HTTPS en el dominio | ![](screenshots/08-sitio-https.png) > Nota: el dominio solo se hizo uno en el curso ya que se necesita comprar |
+| Resultado de `nslookup` | ![](screenshots/09-nslookup.png) |
 
 ## Lo que aprendí
 - **CRUD** significa *Create, Read, Update, Delete*: las operaciones básicas de cualquier sistema que gestiona datos.

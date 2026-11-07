@@ -18,7 +18,7 @@ Registro de los laboratorios prácticos del curso **Fundamentos de Cibersegurida
 
 | 🟢 Terminadas | 🔵 En proceso | ⚪ Planeadas | Total |
 |:---:|:---:|:---:|:---:|
-| 3 | 18 | 4 | 25 |
+| 3 | 17 | 4 | 24 |
 
 ---
 
@@ -30,8 +30,7 @@ Laboratorios prácticos orientados a comprender la estructura de Azure y a despl
 |---|---|---|
 | [01-WordPress-App-Service-Admin-Hash](./01-Azure-Fundamentals/01-WordPress-App-Service-Admin-Hash/) | Despliegue de WordPress en App Service y revisión de la directiva de regiones permitidas y administración de WordPress y phpMyAdmin, escalado del plan y cálculo de un hash SHA-256 en PowerShell | 🟢 Terminada |
 | [02-Static-Web-App](https://github.com/Deni-0295/mi-primera-app-con-microsoft-azure) | Primera app: repositorio desde plantilla, `git clone`, despliegue en Azure y ciclo editar → commit → sincronizar | 🟢 Terminada |
-| [03-CRUD-Kudu](./01-Azure-Fundamentals/03-CRUD-Kudu/) | Despliegue de un proyecto CRUD en App Service subiendo archivos con Kudu | 🟢 Terminada |
-| [04-Custom-Domain-DNS](./01-Azure-Fundamentals/04-Custom-Domain-DNS/) | Configuración de dominio personalizado con registros DNS A y TXT, verificado con `nslookup`| 🔵 En proceso |
+| [03-CRUD-Kudu](./01-Azure-Fundamentals/03-CRUD-Kudu-Custom-Domain-DNS/) | Despliegue de un proyecto CRUD en App Service subiendo archivos con Kudu y configuración de dominio personalizado con registros DNS A y TXT, verificado con `nslookup` | 🟢 Terminada |
 
 ---
 

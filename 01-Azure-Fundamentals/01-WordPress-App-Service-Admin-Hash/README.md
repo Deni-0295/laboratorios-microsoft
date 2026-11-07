@@ -57,8 +57,8 @@ Azure App Service · WordPress · MySQL · phpMyAdmin · Azure Policy · PowerSh
 | Recursos desplegados | ![](screenshots/06-recursos-desplegados.png) |
 | Panel `/wp-admin` | ![](screenshots/07-wp-admin.png) |
 | Tabla `wp_users` con hash | ![](screenshots/08-wp-users-hash.png) |
-| Hash SHA-256 original | ![](screenshots/09-hash-original.png) |
-| Hash tras modificar un píxel | ![](screenshots/10-hash-modificado.png) |
+| Hash SHA-256 original de una imagen | ![](screenshots/09-hash-original.png) |
+| Hash tras modificar un píxel de la imagen | ![](screenshots/10-hash-modificado.png) |
 
 ## Lo que aprendí
 - Un **App Service** es **PaaS**: Azure administra la infraestructura y yo me enfoco en la aplicación.
